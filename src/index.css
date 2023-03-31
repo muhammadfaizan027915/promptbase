@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "Finlandica,sans-serif";
+}
+
+body, html, input, textarea {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  font-weight: 400!important;
+  color: #fff;
+  background-color: #222236;
+}
